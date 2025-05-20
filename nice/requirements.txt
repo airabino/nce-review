@@ -1,0 +1,10 @@
+geopandas==1.0.1
+matplotlib==3.10.3
+momepy==0.9.1
+networkx==3.3
+numba==0.60.0
+numpy==2.2.6
+pandas==2.2.3
+Pyomo==6.9.0
+scikit_learn==1.6.1
+scipy==1.15.3

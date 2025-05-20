@@ -10,5 +10,4 @@ from . import queue # Queue models for congestible elements
 from . import demand # Demand models
 from . import routing # Shortest-path algorithms
 from . import optimization # Optimize network flow
-from . import frp
 from . import in_polygon
